@@ -77,3 +77,7 @@ python scripts\test_openvino.py
 1. 간단한 MuJoCo 로봇 제어 예제 추가
 2. 경량 모델을 OpenVINO로 실행하는 벤치마크 추가
 3. 자연어 명령을 로봇 행동으로 연결하는 최소 VLA 유사 파이프라인 구현
+
+## 참고자료
+
+- [모두의 로보틱스 - VLA 입문](https://wikidocs.net/book/19039)
