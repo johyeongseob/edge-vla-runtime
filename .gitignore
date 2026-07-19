@@ -1,10 +1,16 @@
+# Python virtual environments
 vla/
+
+# Python bytecode and caches
 __pycache__/
 *.pyc
 .pytest_cache/
 .mypy_cache/
 .ruff_cache/
+
+# Local model files and generated artifacts
 models/
 artifacts/
-results/*.npy
-results/*.npz
+
+# Generated experiment outputs
+results/*

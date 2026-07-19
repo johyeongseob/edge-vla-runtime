@@ -1,5 +1,7 @@
 # CPU 중심 오픈소스 VLA 실행 환경 개발
 
+2026 Korea OSS Contest 참가번호 330으로 진행 중인 프로젝트입니다.
+
 산업 현장에서 고성능 GPU 없이도 Vision Language Action 모델을 실행하고 검증할 수 있는 CPU 중심 오픈소스 실행 환경을 개발하는 프로젝트입니다.
 
 ## 현재 목표
@@ -13,7 +15,6 @@
 
 - OS: Windows 11 Home 64-bit
 - Python: 3.11.9
-- 가상환경: `vla`
 - CPU: Intel Core Ultra X7 358H
 - RAM: 약 32GB
 - GPU: Intel Arc B390 GPU
