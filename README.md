@@ -83,3 +83,10 @@ python scripts\test_openvino.py
 - [모두의 로보틱스 - VLA 입문](https://wikidocs.net/book/19039)
 
 - [누구나 쉽게 따라하면서 배우는 Physical AI: LeRobot 라이브러리 - 기초](https://wikidocs.net/book/19029)
+
+### RT-1
+
+- [Official RT-1 Github](https://github.com/google-research/robotics_transformer)
+
+- [RT-1 PyTorch version Github](https://github.com/lucidrains/robotic-transformer-pytorch)
+
