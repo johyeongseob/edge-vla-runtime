@@ -14,3 +14,7 @@ artifacts/
 
 # Generated experiment outputs
 results/*
+
+
+# Personal and system files
+VLA.txt
